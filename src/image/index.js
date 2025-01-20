@@ -1,4 +1,4 @@
-export { default as Icon } from "./icon.png";
+export { default as Icon } from "./Icon.png";
 export { default as Icon2 } from "./Icon2.png";
 export { default as Icon3 } from "./Icon3.png";
 export { default as Icon4 } from "./Icon4.png";
